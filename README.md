@@ -1,2 +1,2 @@
 # anisotropicDiffusion
-In this I try to implement anisotropic diffusion as stated by PIETRO PERONA and JITENDRA MALIK
+This is an implementation of anisotropic diffusion as defined by PIETRO PERONA and JITENDRA MALIK
